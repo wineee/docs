@@ -160,8 +160,9 @@
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
  :ref/default-open-blocks-level 2
  :preferred-format :org
- :favorites []
+ :favorites ["桌面环境" "工具" "文档"]
  :feature/enable-journals? true
+ :ui/show-brackets? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

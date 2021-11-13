@@ -1,0 +1,8 @@
+* 登录管理器
+** li
+** [[https://github.com/apognu/tuigreet][tuigreet]] Graphical console greeter for greetd
+**
+**
+* 应用启动器
+** [[https://github.com/DorianRudolph/sirula][sirula]] (w) Simple app launcher for wayland written in rust
+**

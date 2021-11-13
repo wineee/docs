@@ -1,1 +1,13 @@
 * {{embed [[golang 学习资料]]}}
+* {{embed [[python 学习资料]]}}
+*
+* https://readthedocs.org
+* {{embed [[rust]]}}
+*
+:PROPERTIES:
+:id: 617e9c4c-4d2e-41e3-afa3-7590359b12a5
+:END:
+*
+:PROPERTIES:
+:id: 617ea701-c4be-418b-b387-b59a32c9af17
+:END:

@@ -1,0 +1,6 @@
+* what's the nixos equivalent for libglib2.0-dev ?
+** nix-zsh -p glib.dev gcc pkg-config zlib cargo pango gdk-pixbuf gobject
+** https://logs.nix.samueldr.com/nixos/2020-02-28
+** https://nixos.wiki/wiki/FAQ/I_installed_a_library_but_my_compiler_is_not_finding_it._Why?
+* https://gtk-rs.org/gtk4-rs/
+*

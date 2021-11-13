@@ -1,4 +1,7 @@
 * [[https://draveness.me/golang/][Go 语言设计与实现]]
+:PROPERTIES:
+:collapsed: true
+:END:
 ** 目标读者
 *** 本书不建议没有任何编程经验的读者阅读，其目标读者包含以下几部分人群：
 *** 学习过 Go 语言并且想要理解背后设计与实现的开发者；
@@ -11,4 +14,9 @@
 *** 理解 make、new、defer、select、for 和 range 等关键字的实现；
 *** 理解运行时中的调度器、网络轮询器、内存分配器、垃圾收集器的实现原理；
 *** 理解 HTTP、RPC、JSON 等标准库的设计与原理；
+* [[https://tour.golang.org/list][A Tour of Go]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** 一个适合初学者，拥有众多实例代码的教程。
 *
