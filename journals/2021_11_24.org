@@ -1,0 +1,2 @@
+* https://doc.qt.io/archives/4.6/widgets-codeeditor.html
+*

@@ -1,3 +1,6 @@
 * https://robert.kra.hn/posts/2021-02-07_rust-with-emacs/
 * [[https://rust-coding-guidelines.github.io/rust-coding-guidelines-zh/index.html#rust-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%BB%8B%E7%BB%8D][Rust 编码规范介绍]]
 ** 本规范并非 Rust 教程，但也可以作为学习参考。
+* [[https://rustwiki.org/zh-CN/rust-by-example/index.html][通过例子学 Rust]]
+** 《通过例子学 Rust》（Rust By Example, RBE）内容由一系列可运行的实例组成，通过这些例子阐明了各种 Rust 的概念和基本库。
+*
